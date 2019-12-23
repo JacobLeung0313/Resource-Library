@@ -1,5 +1,5 @@
-# 资源列表
+本文件夹为资源库。
 
-## 图片
+Jacob-Leung: for personal documents, pictures, etc...
 
-
+Graphical-Symbols-for-Use-on-Equipment: pictures for symbols from standard
